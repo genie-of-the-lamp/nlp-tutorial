@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="80a16f15-8e39-4a32-94d8-6bb270a2fcf8" name="Default Changelist" comment="" />
+    <list default="true" id="80a16f15-8e39-4a32-94d8-6bb270a2fcf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/05/meta" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -44,12 +64,15 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\study\nlp-tutorial\05\meta" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\natural-language-processing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09-SplittingData">
-    <configuration name="06-IntegerEncoding-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02-SimilarityTechniques">
+    <configuration name="01-CosineSimilarity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/06-IntegerEncoding-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/01-CosineSimilarity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-IntegerEncoding-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-BagOfWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/06-IntegerEncoding-02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/02-BagOfWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-One-hotEncoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-SimilarityTechniques" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/07-One-hotEncoding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/02-SimilarityTechniques.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08-BytePairEncoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04-TF-IDF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/08-BytePairEncoding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/04-TF-IDF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02-SimilarityTechniques" />
+        <item itemvalue="Python.01-CosineSimilarity" />
+        <item itemvalue="Python.04-TF-IDF" />
+        <item itemvalue="Python.02-BagOfWords" />
         <item itemvalue="Python.09-SplittingData" />
-        <item itemvalue="Python.08-BytePairEncoding" />
-        <item itemvalue="Python.07-One-hotEncoding" />
-        <item itemvalue="Python.06-IntegerEncoding-02" />
-        <item itemvalue="Python.06-IntegerEncoding-01" />
       </list>
     </recent_temporary>
   </component>
@@ -177,10 +200,42 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state width="1036" height="268" key="GridCell.Tab.0.bottom" timestamp="1588574700716">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1036" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588574700716" />
+    <state width="1036" height="268" key="GridCell.Tab.0.center" timestamp="1588574700716">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1036" height="268" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588574700716" />
+    <state width="1036" height="268" key="GridCell.Tab.0.left" timestamp="1588574700716">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1036" height="268" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588574700716" />
+    <state width="1036" height="268" key="GridCell.Tab.0.right" timestamp="1588574700716">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1036" height="268" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588574700716" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1588554116200">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1588554116200" />
+    <state x="548" y="67" width="584" height="876" key="find.popup" timestamp="1588554246929">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="548" y="67" width="584" height="876" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1588554246929" />
   </component>
 </project>

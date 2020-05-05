@@ -25,7 +25,7 @@ print(cos_sim(doc2, doc3))  # 1.0000000000000002
 import os
 import pandas as pd
 this_dir = os.path.dirname(os.path.abspath(__file__))
-data = pd.read_csv(os.path.join(this_dir, 'meta', 'movies_metadata.csv'), low_memory=False)
+data = pd.read_csv(os.path.join(this_dir, 'data', 'movies_metadata.csv'), low_memory=False)
 data = data.head(20000)  # 20000개의 샘플로 학습
 print(data['overview'].isnull().sum())  # 135개의 Null 데이터
 data['overview'] = data['overview'].fillna('')  # Null을 빈 값으로 대체하여 예외 처리

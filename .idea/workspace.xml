@@ -71,7 +71,7 @@
       <recent name="D:\natural-language-processing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01-LatentSemanticAnaysis">
+  <component name="RunManager" selected="Python.03-LatentDirichletAllocation2">
     <configuration name="01-CosineSimilarity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-BagOfWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-LatentDirichletAllocation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/02-BagOfWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06/02-LatentDirichletAllocation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-TF-IDF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-LatentDirichletAllocation2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/04-TF-IDF.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06/03-LatentDirichletAllocation2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03-LatentDirichletAllocation2" />
+        <item itemvalue="Python.02-LatentDirichletAllocation" />
         <item itemvalue="Python.01-LatentSemanticAnaysis" />
         <item itemvalue="Python.02-SimilarityTechniques" />
         <item itemvalue="Python.01-CosineSimilarity" />
-        <item itemvalue="Python.04-TF-IDF" />
-        <item itemvalue="Python.02-BagOfWords" />
       </list>
     </recent_temporary>
   </component>
@@ -213,22 +213,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1036" height="268" key="GridCell.Tab.0.bottom" timestamp="1588673247387">
+    <state x="267" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588685443401">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588673247387" />
-    <state width="1036" height="268" key="GridCell.Tab.0.center" timestamp="1588673247387">
+    <state x="267" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588685443401" />
+    <state width="1036" height="268" key="GridCell.Tab.0.bottom" timestamp="1588687238450">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588673247387" />
-    <state width="1036" height="268" key="GridCell.Tab.0.left" timestamp="1588673247387">
+    <state width="1036" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
+    <state width="1036" height="268" key="GridCell.Tab.0.center" timestamp="1588687238450">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588673247387" />
-    <state width="1036" height="268" key="GridCell.Tab.0.right" timestamp="1588673247387">
+    <state width="1036" height="268" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
+    <state width="1036" height="268" key="GridCell.Tab.0.left" timestamp="1588687238450">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588673247387" />
+    <state width="1036" height="268" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
+    <state width="1036" height="268" key="GridCell.Tab.0.right" timestamp="1588687238450">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1036" height="268" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1588554116200">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

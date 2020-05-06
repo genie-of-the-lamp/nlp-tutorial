@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80a16f15-8e39-4a32-94d8-6bb270a2fcf8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/07/LinearRegression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,28 +72,7 @@
       <recent name="D:\natural-language-processing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03-LatentDirichletAllocation2">
-    <configuration name="01-CosineSimilarity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="natural-language-processing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/01-CosineSimilarity.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.LinearPregression">
     <configuration name="01-LatentSemanticAnaysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="natural-language-processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,13 +157,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LinearPregression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="natural-language-processing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07/LinearPregression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinearPregression" />
         <item itemvalue="Python.03-LatentDirichletAllocation2" />
         <item itemvalue="Python.02-LatentDirichletAllocation" />
         <item itemvalue="Python.01-LatentSemanticAnaysis" />
         <item itemvalue="Python.02-SimilarityTechniques" />
-        <item itemvalue="Python.01-CosineSimilarity" />
       </list>
     </recent_temporary>
   </component>
@@ -217,22 +218,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="267" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588685443401" />
-    <state width="1036" height="268" key="GridCell.Tab.0.bottom" timestamp="1588687238450">
+    <state width="1021" height="268" key="GridCell.Tab.0.bottom" timestamp="1588744792425">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
-    <state width="1036" height="268" key="GridCell.Tab.0.center" timestamp="1588687238450">
+    <state width="1021" height="268" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588744792425" />
+    <state width="1021" height="268" key="GridCell.Tab.0.center" timestamp="1588744792425">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
-    <state width="1036" height="268" key="GridCell.Tab.0.left" timestamp="1588687238450">
+    <state width="1021" height="268" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588744792425" />
+    <state width="1021" height="268" key="GridCell.Tab.0.left" timestamp="1588744792425">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
-    <state width="1036" height="268" key="GridCell.Tab.0.right" timestamp="1588687238450">
+    <state width="1021" height="268" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588744792425" />
+    <state width="1021" height="268" key="GridCell.Tab.0.right" timestamp="1588744792425">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1036" height="268" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588687238450" />
+    <state width="1021" height="268" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588744792425" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1588554116200">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
